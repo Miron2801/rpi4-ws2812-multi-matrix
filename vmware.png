@@ -1,0 +1,11 @@
+--2024-06-29 09:45:13--  https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 185.15.59.240, 2a02:ec80:300:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|185.15.59.240|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13121 (13K) [image/png]
+Saving to: ‘600px-Vmware_workstation_16_icon.svg.png’
+
+     0K .......... ..                                         100% 97.9M=0s
+
+2024-06-29 09:45:14 (97.9 MB/s) - ‘600px-Vmware_workstation_16_icon.svg.png’ saved [13121/13121]
+
